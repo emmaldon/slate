@@ -34,4 +34,8 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
 
 [![PayStand Dashboard Walkthrough](https://img.youtube.com/vi/z5Oi5cFLSmM/0.jpg)](https://www.youtube.com/watch?v=z5Oi5cFLSmM "Click on the image")
 
-<iframe  align="center" width="560" height="315" src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe   width="560" height="315" src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=z5Oi5cFLSmM"><img src="https://img.youtube.com/vi/z5Oi5cFLSmM/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
