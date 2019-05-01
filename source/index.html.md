@@ -11,7 +11,7 @@ toc_footers:
 
 includes:
   - errors
-  -Introduction
+  - Introduction
 
 search: true
 ---
