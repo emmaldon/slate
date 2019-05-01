@@ -1,8 +1,7 @@
 # FAQ
 
-## NetSuite FAQ
 
-## How to turn on the Paystand Sandbox environment for non-admins?
+## Netsuite - How to turn on the Paystand Sandbox environment for non-admins?
 
 PayStand's bundle features in your NetSuite should surface for all users.  Whether you are an admin or not, your users should be able to see the virtual terminal, the email button, the templates and other features.
 You cannot see the PayStand bundle configuration page unless you have the Administrator role.  
