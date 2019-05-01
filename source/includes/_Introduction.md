@@ -23,6 +23,7 @@ The Sandbox environment is where all your initial development will take place. A
 
 ```javascript
 const kittn = require('kittn');
+```
 
 <aside class="warning">
 Do not use personal, sensitive, or financial information in the Sandbox.
