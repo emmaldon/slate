@@ -19,7 +19,7 @@ search: true
 
 
 
-# Authentication
+<!-- # Authentication
 
 > To authorize, use this code:
 
@@ -87,7 +87,7 @@ const kittn = require('kittn');
 
 let api = kittn.authorize('meowmeowmeow');
 let kittens = api.kittens.get();
-```
+``` -->
 
 > The above command returns JSON structured like this:
 
