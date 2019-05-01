@@ -48,4 +48,4 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
   ps-paymentAmount="100.00"
 ></script>
 
-<div id="ps_checkout_load"></div>
+<div id="ps_checkout"></div>
