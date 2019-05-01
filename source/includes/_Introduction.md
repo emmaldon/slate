@@ -21,6 +21,9 @@ Once your plan is created, your implementation manager will provide you with you
 
 The Sandbox environment is where all your initial development will take place. All development for Sandbox is leverageable for Production. By updating Sandbox to Production links and credentials, your implementation is ready for live activity.
 
+```javascript
+const kittn = require('kittn');
+
 <aside class="warning">
 Do not use personal, sensitive, or financial information in the Sandbox.
 While we work hard to keep Sandbox parallel to Productions, including in matters of security, it is just never a good idea to have non-test data in a test environment.
