@@ -14,7 +14,7 @@ Reporting & Event Notifications
 Creating accounts for your customers
 Fraud Prevention & Risk
 
-## 1. Sign Up and Receive your Sandbox Credentials
+### 1. Sign Up and Receive your Sandbox Credentials
 Work with a PayStand Implementation Manager who knows your requirements & objectives. Our team can recommend and create a plan to optimize development timelines.
 
 Once your plan is created, your implementation manager will provide you with your Sandbox credentials, including your Dashboard. We will also deliver your development private and publishable keys.
