@@ -10,15 +10,13 @@ toc_footers:
   - <a href='https://github.com/lord/slate'>Documentation Powered by Slate</a>
 
 includes:
-  - errors
+
   - Introduction
+  - errors
 
 search: true
 ---
 
-# Introduction
-
-Welcome to the PayStand Guides developer hub. You'll find comprehensive guides and documentation to help you start working with PayStand Guides as quickly as possible, as well as support if you get stuck. Let's jump right in!
 
 
 
