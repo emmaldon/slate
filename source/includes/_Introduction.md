@@ -38,3 +38,14 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
 <iframe   width="460" height="315" src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<script
+  type="text/javascript"
+  id="ps_checkout"
+  src="https://checkout.paystand.com/v4/js/paystand.checkout.js"
+  ps-env="live"
+  ps-publishableKey="mq9lvt3u40chjmsu4909fqly"
+  ps-mode="embed"
+  ps-paymentAmount="100.00"
+></script>
+
+<div id="ps_checkout_load"></div>
