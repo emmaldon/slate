@@ -37,5 +37,6 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
 
 <iframe   width="460" height="315" src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<div>
 [![Everything Is AWESOME](source/images/logo.png)](https://acmecargovendor-portal.paystand.co "Everything Is AWESOME")
+</div>
