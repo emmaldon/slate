@@ -39,14 +39,8 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
 
 <div>
 
-<iframe   width="460" height="315"
+<iframe   width="460" height="315" src-"https://acmecargovendor-portal.paystand.co"
 
 
-<button
-  class="ps-button ps-button-style"
-  ps-checkoutType="checkout_payment"
-  ps-paymentAmount="100.00"
-  ps-fixedAmount="false"
-  ps-paymentCurrency="USD"
->Pay Now!</button> ></iframe>
+></iframe>
 </div>
