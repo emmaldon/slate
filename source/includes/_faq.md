@@ -1,9 +1,6 @@
 # FAQ
 
 
-## Netsuite - How to turn on the Paystand Sandbox environment for non-admins?
-
-
 
 ## Netsuite - How to turn on the Paystand Sandbox environment for non-admins?
 
