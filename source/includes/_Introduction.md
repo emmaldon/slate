@@ -27,7 +27,7 @@ While we work hard to keep Sandbox parallel to Productions, including in matters
 </aside>
 
 <aside class="notice">
-All URLs in Sandbox and Production have only a single difference: their TLD. Sandbox URLs use paystand.CO, whereas the equivalent URLs in Production use paystand.COM.
+All URLs in Sandbox and Production have only a single difference: their TLD. Sandbox URLs use paystand.<b>CO</b>, whereas the equivalent URLs in Production use paystand.<b>COM</b>.
 </aside>
 
 ## Dashboard Walkthrough
