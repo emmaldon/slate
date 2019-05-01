@@ -1,4 +1,6 @@
-#Getting Started
+#Introduction
+
+## Getting Started
 
 Starting with PayStand is as easy as...
 
