@@ -40,13 +40,7 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
 <div>
 
 <iframe   width="460" height="315"
-<script
-  type="text/javascript"
-  id="ps_checkout"
-  src="https://checkout.paystand.co/v4/js/paystand.checkout.js"
-  ps-env="sandbox"
-  ps-publishableKey="w41l3su3kf99jd7u9bxjntcz"
-></script>
+
 
 <button
   class="ps-button ps-button-style"
