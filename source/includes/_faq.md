@@ -12,3 +12,6 @@ You cannot see the PayStand bundle configuration page unless you have the Admini
 This is intentional, as changing the configuration can break the bundle's connection and thus only done by those with the special authority to make such changes.
 </p>
 </details>
+
+<div>
+</div>
