@@ -11,7 +11,7 @@ toc_footers:
 
 includes:
   - Introduction
-  - FAQ
+  - faq
   
 
 search: true
