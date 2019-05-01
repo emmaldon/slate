@@ -89,7 +89,7 @@ let api = kittn.authorize('meowmeowmeow');
 let kittens = api.kittens.get();
 ``` -->
 
-> The above command returns JSON structured like this:
+<!-- > The above command returns JSON structured like this:
 
 ```json
 [
@@ -231,4 +231,4 @@ Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to delete
 
-###
+### -->
