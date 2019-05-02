@@ -9,7 +9,7 @@ Partners use their Billing Portals in invoices, emails, embed in their websites,
 Click on the Image below to give it a try:
 
 
-[![Pay Now Powered By PayStand](https://github.com/emmaldon/slate/blob/master/source/images/PayNow.jpg)]{:target="_blank"}(https://acmecargovendor-portal.paystand.co )
+[![Pay Now Powered By PayStand](https://github.com/emmaldon/slate/blob/master/source/images/PayNow.jpg)](https://acmecargovendor-portal.paystand.co ) {:target="_blank"}
 
 ### Test cards
 PayStand test card numbers
