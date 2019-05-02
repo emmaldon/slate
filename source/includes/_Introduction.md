@@ -83,7 +83,6 @@ To collect the information for a payment (whether by card, echeck, bank account,
 ### Include in your Page
 Copy and paste PayStand's Basic Checkout tags.
 
-`javascript
 <script
   type="text/javascript"
   id="paystand_checkout"
@@ -94,7 +93,7 @@ Copy and paste PayStand's Basic Checkout tags.
   ps-publishable-key="<your publishable key from your PayStand Dashboard>"
   ps-env="sandbox"
 ></script>
-`
+{: .language-html}
 
 ## Dashboard Walkthrough
 
