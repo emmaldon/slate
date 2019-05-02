@@ -51,6 +51,32 @@ Automated Settlement – Unless otherwise specified, PayStand will settle transa
  <b>Withdrawals</b> Also Known As <i>"Requesting a withdrawal"<i> is synonymous with <i>"scheduling a transfer"<i> (as a withdrawal is a transfer of funds from your PayStand account to your bank account) and "initiating settlement" (as the transfer of funds from your PayStand account to your bank account is looked at, by accountants and ledgers, as settling the accounts). Another term used often is "funding instructions", which is the vehicle PayStand uses to tell one account to transfer funds to another account.
 </aside>
 
+### 4. Go Live!
+All development for Sandbox is leverageable for Production. By updating Sandbox to Production links and credentials, your implementation is ready for live activity.
+
+Once you've completed your development, we'll certify your implementation and schedule a go-live date.
+
+### 5. Events & Webhooks
+Events, sent via webhook, enable timely receipt of updates on payment statuses. While information may also be pulled via API, these push notifications activate triggers and custom workflows the moment information is made available. Notifications are delivered via HTTP POST to a destination endpoint on your server. Each event payload is a JSON object, and contains the full PayStand reference and data that the notification is reporting on.
+
+To configure an event listening point, you'll need to:
+
+Create a webhook destination URL on your server
+Add the destination webhook URL to PayStand via the dashboard.
+Set up your server to capture webhooks.
+
+### 6. Creating an Account
+To enable businesses or organizations to receive funds, you will need to create a “customer account” for each child merchant of your platform. The financial term for creating this account is “underwriting.” The process of underwriting can be automated and supported entirely within your application with PayStand.
+
+Gather the inputs for your merchants and submit to PayStand through the onboarding endpoint. Work with your PayStand implementation manager to determine what values are required for your platform.
+
+Once PayStand receives key data points about each desired recipient of funds, we will return an approval or an error message with details explaining why the merchant was not approved.
+
+PayStand will instantly return a publishable key and transactions can begin immediately.
+
+### 7. Fraud Prevention & Risk
+Financial transactions require you adhere to financial industry KYC and compliance standards. PayStand’s team is available to both assist with compliance and advise you on best practices to ensure you meet standards for KYC processes. We will leverage our technology to your benefit, but this is in addition to and not instead of your own education and KYC process.
+
 ## Dashboard Walkthrough
 
 
