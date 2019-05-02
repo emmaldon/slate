@@ -87,7 +87,7 @@ Copy and paste PayStand's Basic Checkout tags.
 
 `
 <script
- type="text/javascript"` <br>
+ type="text/javascript" {: .language-html}` <br>
  ` id="paystand_checkout"` <br>
  ` src="https://checkout.paystand.co/v4/js/paystand.checkout.js"` <br>
  ` ps-mode="embed"` <br>
