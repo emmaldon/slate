@@ -77,6 +77,25 @@ PayStand will instantly return a publishable key and transactions can begin imme
 ### 7. Fraud Prevention & Risk
 Financial transactions require you adhere to financial industry KYC and compliance standards. PayStand’s team is available to both assist with compliance and advise you on best practices to ensure you meet standards for KYC processes. We will leverage our technology to your benefit, but this is in addition to and not instead of your own education and KYC process.
 
+## The Payment Interface
+To collect the information for a payment (whether by card, echeck, bank account, or other means), PayStand provides you a versatile, robust interface. Most developers from our partners get this interface copied & running in under 5 minutes.
+
+### Include in your Page
+Copy and paste PayStand's Basic Checkout tags.
+
+```html
+<script
+  type="text/javascript"
+  id="paystand_checkout"
+  src="https://checkout.paystand.co/v4/js/paystand.checkout.js"
+  ps-mode="embed"
+  ps-show="true"
+  ps-amount="100.12"
+  ps-publishable-key="<your publishable key from your PayStand Dashboard>"
+  ps-env="sandbox"
+></script>
+```
+
 ## Dashboard Walkthrough
 
 
@@ -87,9 +106,7 @@ Financial transactions require you adhere to financial industry KYC and complian
   <iframe src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5s9aWtRJUDADLxiqEJj9GH06qBeqwcWXPQMsfAuFlxG_qtjXuLtghv5dC_YlnLWwpR6sZ7mWz1Njj/pub?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
+
 
 
 
