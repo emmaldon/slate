@@ -83,7 +83,7 @@ To collect the information for a payment (whether by card, echeck, bank account,
 ### Include in your Page
 Copy and paste PayStand's Basic Checkout tags.
 
-```html
+```javascript
 <script
   type="text/javascript"
   id="paystand_checkout"
