@@ -21,9 +21,7 @@ Once your plan is created, your implementation manager will provide you with you
 
 The Sandbox environment is where all your initial development will take place. All development for Sandbox is leverageable for Production. By updating Sandbox to Production links and credentials, your implementation is ready for live activity.
 
-```javascript
-const kittn = require('kittn');
-```
+
 
 <aside class="warning">
 Do not use personal, sensitive, or financial information in the Sandbox.
@@ -39,7 +37,10 @@ All URLs in Sandbox and Production have only a single difference: their TLD. San
 
 
 
-<iframe   width="460" height="315" src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 
