@@ -83,17 +83,18 @@ To collect the information for a payment (whether by card, echeck, bank account,
 ### Include in your Page
 Copy and paste PayStand's Basic Checkout tags.
 
-><script
- >type="text/javascript"
-  >id="paystand_checkout"
-  >src="https://checkout.paystand.co/v4/js/paystand.checkout.js"
-  >ps-mode="embed"
-  >ps-show="true"
-  >ps-amount="100.12"
-  >ps-publishable-key="<your publishable key from your PayStand Dashboard>"
-  >ps-env="sandbox"
-></script>
-
+```
+<script
+ type="text/javascript"
+  id="paystand_checkout"
+  src="https://checkout.paystand.co/v4/js/paystand.checkout.js"
+  ps-mode="embed"
+  ps-show="true"
+  ps-amount="100.12"
+  ps-publishable-key="<your publishable key from your PayStand Dashboard>"
+  ps-env="sandbox"
+</script>
+```
 
 ## Dashboard Walkthrough
 
