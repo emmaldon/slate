@@ -62,7 +62,7 @@ Automated Settlement – Unless otherwise specified, PayStand will settle transa
 </figure>
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/1vbzAe0_tTxBA8pfyYDlA2UQ8KkpfDETYOmo3K4ZlO3E"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5s9aWtRJUDADLxiqEJj9GH06qBeqwcWXPQMsfAuFlxG_qtjXuLtghv5dC_YlnLWwpR6sZ7mWz1Njj/pub?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 
