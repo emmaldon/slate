@@ -46,7 +46,10 @@ If a member of your staff manages withdrawals (a bookkeeper, accountant, or fina
 
 Automated Settlement – Unless otherwise specified, PayStand will settle transactions automatically and according to industry best practices. This enables end-to-end transactions with the minimum amount of development work.
 
-
+<aside class="notice">
+ Withdrawals Also Known As
+"Requesting a withdrawal" is synonymous with "scheduling a transfer" (as a withdrawal is a transfer of funds from your PayStand account to your bank account) and "initiating settlement" (as the transfer of funds from your PayStand account to your bank account is looked at, by accountants and ledgers, as settling the accounts). Another term used often is "funding instructions", which is the vehicle PayStand uses to tell one account to transfer funds to another account.
+</aside>
 
 ## Dashboard Walkthrough
 
