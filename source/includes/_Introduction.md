@@ -48,7 +48,7 @@ Automated Settlement – Unless otherwise specified, PayStand will settle transa
 
 <aside class="notice">
 <br>
- Withdrawals Also Known As <i>"Requesting a withdrawal"<i> is synonymous with <i>"scheduling a transfer"<i> (as a withdrawal is a transfer of funds from your PayStand account to your bank account) and "initiating settlement" (as the transfer of funds from your PayStand account to your bank account is looked at, by accountants and ledgers, as settling the accounts). Another term used often is "funding instructions", which is the vehicle PayStand uses to tell one account to transfer funds to another account.
+ <b>Withdrawals<b> Also Known As <i>"Requesting a withdrawal"<i> is synonymous with <i>"scheduling a transfer"<i> (as a withdrawal is a transfer of funds from your PayStand account to your bank account) and "initiating settlement" (as the transfer of funds from your PayStand account to your bank account is looked at, by accountants and ledgers, as settling the accounts). Another term used often is "funding instructions", which is the vehicle PayStand uses to tell one account to transfer funds to another account.
 </aside>
 
 ## Dashboard Walkthrough
@@ -60,6 +60,11 @@ Automated Settlement – Unless otherwise specified, PayStand will settle transa
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/z5Oi5cFLSmM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/1vbzAe0_tTxBA8pfyYDlA2UQ8KkpfDETYOmo3K4ZlO3E"></iframe>
+</figure>
+
 
 
 
